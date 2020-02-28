@@ -1,3 +1,3 @@
 ## React-Hooks-Redux-Example
 
-This a example of react redux, using hooks of React
+A example of application using React Hooks on Redux
